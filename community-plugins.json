@@ -14229,6 +14229,13 @@
    "author": "Sai Prashanth Pulisetti",
    "description": "A plugin to audit passwords for strength and breaches, and generate secure passwords.",
    "repo": "prashanthpulisetti/password-audit"
+  },
+{
+    "id": "todoist-context-bridge",
+    "name": "Todoist Context Bridge",
+    "author": "wenlzhang",
+    "description": "Bridge your note-taking and task management workflows by maintaining strong contextual connections between Obsidian and Todoist.",
+    "repo": "wenlzhang/obsidian-todoist-context-bridge"
   }
 
 ]
